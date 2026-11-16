@@ -1,0 +1,6 @@
+node_modules
+.pote-*.json
+.git
+.gitignore
+.env
+*.zip

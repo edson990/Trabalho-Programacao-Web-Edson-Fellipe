@@ -1,0 +1,10 @@
+{
+  "name": "atividade02-loja-da-turma",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Atividade 02 — a Loja da Turma",
+  "scripts": {
+    "start": "node servidor.js"
+  },
+  "dependencies": { "express": "^5.2.1" }
+}
